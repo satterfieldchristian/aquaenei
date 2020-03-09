@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uahaiveemo.0ran9e.com/sitemap.xml
